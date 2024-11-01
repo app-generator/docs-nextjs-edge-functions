@@ -1,9 +1,9 @@
-# [Getting Started with NextJS](https://app-generator.dev/docs/technologies/nextjs/index.html)
+# [Getting Started with NextJS Edge Functions](https://app-generator.dev/docs/technologies/nextjs/edge-functions.html)
 
-Coding sample for **[Getting Started with NextJS documentation page](https://app-generator.dev/docs/technologies/nextjs/index.html)**. 
-Next.js is a React framework that provides additional structure, features, and optimizations for your application. Created by Vercel, it enables you to build full-stack web applications by extending React's capabilities with server-side functionality.
+Coding sample for **[Getting Started with NextJS Edge Functions documentation page](https://app-generator.dev/docs/technologies/nextjs/edge-functions.html)**.
+Next.js is a React framework that provides additional structure, features, and optimizations for your application, while Edge Functions are specialized serverless functions distributed globally to reduce network latency by executing code on servers closest to end users.
 
-> 👉 Get [Support](https://app-generator.dev/ticket/create/) via `email` & `Discord` 
+> 👉 Get [Support](https://app-generator.dev/ticket/create/) via `email` & `Discord`
 
 <br />
 
@@ -12,8 +12,8 @@ Next.js is a React framework that provides additional structure, features, and o
 1. First clone the GitHub repository and navigate into the project folder:
 
 ```bash
-$ git clone https://github.com/app-generator/core-nextjs.git
-$ cd core-nextjs
+$ git clone https://github.com/app-generator/docs-nextjs-edge-functions.git
+$ cd docs-nextjs-edge-functions
 ```
 
 2. Next, install dependencies:
@@ -53,4 +53,4 @@ $ npx shadcn add <component-name>
 <br />
 
 ---
-**[Getting Started with NextJS](https://app-generator.dev/docs/technologies/nextjs/index.html)** - Coding sample provided by **[App Generator](https://app-generator.dev/)**
+**[Getting Started with NextJS Edge Functions](https://app-generator.dev/docs/technologies/nextjs/edge-functions.html)** - Coding sample provided by **[App Generator](https://app-generator.dev/)**
